@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="b870f18b-38e0-4bc8-8323-9116ab4bb4af" name="FrequenciaWifi" defaultType="TOOL">
+      <configuration id="3490049d-b320-475e-be14-cbb08191ba5a" name="FrequenciaWifi" toolchainName="MinGW">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_Frequencia" />
+        </build>
+        <clean type="TOOL">
+          <tool actionId="Tool_External Tools_Frequencia" />
+        </clean>
+      </configuration>
+    </target>
+  </component>
+</project>

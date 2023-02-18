@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Frequencia" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$FilePath$" />
+      <option name="PARAMETERS" value="$/FileRelativePath$" />
+      <option name="WORKING_DIRECTORY" value="$LineNumber$" />
+    </exec>
+  </tool>
+</toolSet>

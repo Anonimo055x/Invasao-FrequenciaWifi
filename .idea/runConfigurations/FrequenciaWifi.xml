@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="FrequenciaWifi" type="CompoundRunConfigurationType">
+    <toRun name="FrequenciaWifi" type="ChromiumRemoteDebugType" />
+    <toRun name="FrequenciaWifi" type="JavascriptDebugType" />
+    <method v="2" />
+  </configuration>
+</component>
